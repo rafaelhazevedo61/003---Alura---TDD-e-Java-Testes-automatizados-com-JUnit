@@ -14,3 +14,12 @@
 - Como escrever uma funcionalidade via TDD;
 - Como realizar uma refatoração no código;
 - As vantagens de escrever os testes antes da implementação.
+
+• Aula 4
+- Como testar métodos que podem lançar exceptions;
+- As abordagens para testar um método que lança uma exception.
+
+Extra - tipos de abordagens:
+1. O valor que é devolvido pelo método
+2. O objeto que é modificado pelo método
+3. Uma exception
