@@ -2,3 +2,9 @@
 - O que são testes automatizados;
 - A importância de se escrever testes automatizados em uma aplicação;
 - Como escrever um teste automatizado utilizando uma classe Java com o método main.
+
+• Aula 2
+- A história do JUnit;
+- Como adicionar o JUnit ao projeto;
+- Como escrever um teste automatizado com JUnit;
+- Como executar os testes com JUnit e analisar o resultado da execução.
