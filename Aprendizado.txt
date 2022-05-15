@@ -23,3 +23,9 @@ Extra - tipos de abordagens:
 1. O valor que é devolvido pelo método
 2. O objeto que é modificado pelo método
 3. Uma exception
+
+• Aula 5
+- Como organizar o código de uma classe de teste;
+- A utilizar as anotacoes @BeforeEach, @AfterEach, @BeforeAll e AfterAll do JUnit;
+- Que não se deve testar métodos privados;
+- Avaliar quais classes devem ser testadas em uma aplicação.
