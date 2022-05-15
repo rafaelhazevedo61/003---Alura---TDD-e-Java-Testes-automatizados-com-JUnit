@@ -1,0 +1,4 @@
+• Aula 1
+- O que são testes automatizados;
+- A importância de se escrever testes automatizados em uma aplicação;
+- Como escrever um teste automatizado utilizando uma classe Java com o método main.
