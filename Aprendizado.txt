@@ -8,3 +8,9 @@
 - Como adicionar o JUnit ao projeto;
 - Como escrever um teste automatizado com JUnit;
 - Como executar os testes com JUnit e analisar o resultado da execução.
+
+• Aula 3
+- O que é o TDD;
+- Como escrever uma funcionalidade via TDD;
+- Como realizar uma refatoração no código;
+- As vantagens de escrever os testes antes da implementação.
